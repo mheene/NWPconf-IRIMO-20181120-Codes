@@ -1,0 +1,4 @@
+set unexpandedDescriptors={301022,001019,012101,012023};
+set longStationName="تهران ";
+set pack=1;
+write;

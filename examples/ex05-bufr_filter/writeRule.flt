@@ -1,0 +1,6 @@
+set unpack = 1;
+set dewpointTemperature = 275.18;
+set updateSequenceNumber = 2;
+set observationSequenceNumber =2;
+set pack = 1;
+write;
