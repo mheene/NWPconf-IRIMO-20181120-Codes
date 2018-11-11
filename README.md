@@ -6,7 +6,7 @@ This repository contains the presentation slides with all excercises and tools f
 The presentation contains two parts. Part one is about "Data retrieval for data assimilation" while part two is an introdution in BUFR. In addition the presentation provides an overview in BUFR processing in particular with ecCodes.
 
 # Examples
-- Example 00 - bufr_dump (inspect a BUFR)
+- [Example 00](https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/tree/master/examples/ex00-bufr_dump) - bufr_dump (inspect a BUFR)
 - Example 01 - bufr_ls (read masterTablesVersionNumber)
 - Example 02 - bufr_ls (read updateSequenceNumber)
 - Example 03 - bufr_compare (compare 2 BUFR)
