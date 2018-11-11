@@ -30,4 +30,4 @@ The Docker image with 3 decoders (Geo::BUFR, libECBUFR and BUFRDC) and the BUFR 
 
 [![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/mheene/allInOne/master/stack.yml)
 
-
+A screen record of the Docker example is [here](https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/blob/master/allInOneDocker.mp4).
