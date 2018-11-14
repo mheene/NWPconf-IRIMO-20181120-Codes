@@ -3,7 +3,7 @@
 This repository contains the [presentation slides](https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/blob/master/Markus_20181120_Codes.pptx) with all excercises and tools for my prestation at the ["First International Conference on Numerical Weather and Climate Prediction"](http://nwpconf.irimo.ir/) in Tehran.
 
 # Slides
-The [presentation](https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/blob/master/Markus_20181120_Codes.pptx) contains two parts. Part one is about "Data retrieval for data assimilation" while part two is an introdution in BUFR. In addition the presentation provides an overview in BUFR processing in particular with ecCodes.
+The [presentation](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/raw/master/Markus_20181120_Codes.pptx) contains two parts. Part one is about "Data retrieval for data assimilation" while part two is an introdution in BUFR. In addition the presentation provides an overview in BUFR processing in particular with ecCodes.
 
 # Examples
 - [Example 00](https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/tree/master/examples/ex00-bufr_dump) - bufr_dump (inspect a BUFR)
