@@ -30,5 +30,5 @@ The Docker image with 3 decoders (Geo::BUFR, libECBUFR and BUFRDC) and the BUFR 
 
 [![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/mheene/allInOne/master/stack.yml)
 
-A screen record of the Docker example is [![here](https://img.youtube.com/vi/9uJqKCVfRfk/maxresdefault.jpg)](https://www.youtube.com/watch?v=9uJqKCVfRfk).
+A screen record of the Docker example is here (click on the image to see video)[![here](https://img.youtube.com/vi/9uJqKCVfRfk/maxresdefault.jpg)](https://www.youtube.com/watch?v=9uJqKCVfRfk).
 
