@@ -5,6 +5,9 @@ This repository contains the [presentation slides](https://view.officeapps.live.
 # Slides
 The [presentation](https://view.officeapps.live.com/op/view.aspx?src=https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/raw/master/Markus_20181120_Codes.pptx) contains two parts. Part one is about "Data retrieval for data assimilation" while part two is an introdution in BUFR. In addition the presentation provides an overview in BUFR processing in particular with ecCodes.
 
+# Photos
+The photos are available in [2 zip-archives](https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/tree/master/NWP_Photos) for download. 
+
 # Examples
 - [Example 00](https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/tree/master/examples/ex00-bufr_dump) - bufr_dump (inspect a BUFR)
 - [Example 01](https://github.com/mheene/NWPconf-IRIMO-20181120-Codes/tree/master/examples/ex01-masterTableVersion) - bufr_ls (read masterTablesVersionNumber)
